@@ -22,7 +22,7 @@
         "reject": {
             "title_permanent": "Du har blitt permanent utestengt fra denne serveren.",
             "title_temporary": "Du har blitt midlertidig utestengt fra denne serveren.",
-            "label_expiration": "Din utestengelse vil oppheves om ",
+            "label_expiration": "Din utestengelse vil oppheves om",
             "label_date": "Dato for Utestengelse",
             "label_author": "Utestengt av",
             "label_reason": "Grunnlag for Utestengelsen",
